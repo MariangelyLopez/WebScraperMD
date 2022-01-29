@@ -25,7 +25,7 @@ plataforma.
 En caso de utilizar Proyecto.ipynb en la
 Plataforma Jupiter se tienen que seguir los 
 Siguientes pasos:
--En el apartados de funciones debe haber
+-En el apartado de funciones debe haber
 4 cuadros, es en los primeros 3 donde habrá 
 que hacer una modificación, en los 3 
 cuadros se hace el mismo cambio. En la 
@@ -46,12 +46,10 @@ tienen que seguir los siguientes pasos:
 -En las líneas 38, 125 y 222 habrá 
 que hacer una modificación, en cada una 
 de las líneas se hace el mismo cambio. En la 
-primera variable que se declara, llamada 
-path, debe cambiar lo que va entre 
-comillas por la ruta del archivo chromedriver, 
-esta la tiene que conocer el usuario ya que
-cada computadora tiene una 
-propia.
+variable llamada path, debe cambiar lo que 
+va entre comillas por la ruta del archivo 
+chromedriver, esta la tiene que conocer 
+el usuario ya que cada computadora tiene 
+una propia.
 -Una vez hecho el paso anterior, debe correr 
 todo el código y se verán los resultados.
-
